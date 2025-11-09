@@ -1,0 +1,1 @@
+window.addEventListener('load', ()=>{ if(!window.socket) console.warn('Socket.io not loaded'); });
